@@ -1,8 +1,6 @@
 # Amazon-Prime-Movies-Insights-Tableau-Dashboard
 Project Description: This project aims to explore and analyze the vast collection of movies and TV shows on Amazon Prime Video using the provided dataset. By leveraging various data analysis techniques, the project seeks to extract meaningful insights and uncover patterns within the platform's content offerings.
 
-# Amazon Prime Video - Movies and TV Shows Dataset Exploration
-
 ## About this Dataset
 Amazon Prime Video stands as one of the most prominent media and video streaming platforms globally, boasting a collection of nearly 10,000 movies and TV shows. As of mid-2021, the platform has amassed over 200 million subscribers worldwide. This tabular dataset encompasses detailed listings of all movies and TV shows available on Amazon Prime, including information such as cast, directors, ratings, release year, duration, and more.
 
